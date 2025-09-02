@@ -1,1 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Souhail-001=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+# Hi, I'm Souhail Mbarki 👋
+
+💻 Software Engineer
+
+---
+
+## 📈 GitHub Stats
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souhail-001)](https://github.com/anuraghazra/github-readme-stats)
