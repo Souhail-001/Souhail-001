@@ -1,17 +1,76 @@
+<div align="center">
+
 # Hi, I'm Souhail Mbarki 👋
 
-💻 Software Engineer
+**Software Engineering Student at ENIT · AI Engineering · Competitive Programming**
 
+Building practical AI applications with LLMs, RAG, and machine learning.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sohayel.mbarki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souhail-mbarki-a74b0a337/) 
+[LinkedIn](https://www.linkedin.com/in/souhail-mbarki-a74b0a337/) · [Email](mailto:souhayelmbarki15@gmail.com) · [Codeforces](https://codeforces.com/profile/Aizen01) · [Kaggle](https://www.kaggle.com/mbarkisouhail)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+**Open to AI/ML internship opportunities** · Tunis, Tunisia
 
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Souhail-001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+I'm a Software Engineering student at the **National Engineering School of Tunis (ENIT)**, focused on building AI systems that solve practical problems. My interests include **LLM engineering, retrieval-augmented generation, agentic AI, and applied machine learning**.
+
+I enjoy understanding how a system works before writing code: defining the problem, exploring architecture choices, and testing assumptions. Competitive programming has shaped that approach through years of algorithmic problem-solving.
+
+## Selected projects
+
+### [AuraHire — AI-Powered Career Assistant](https://github.com/Souhail-001/AI_Assistant)
+
+A full-stack career assistant for job discovery, profile analysis, interview preparation, and review generation.
+
+- Built a modular FastAPI backend with REST APIs and JWT authentication.
+- Implemented a RAG pipeline and vector-based semantic search for context-aware responses.
+- Containerized the application with Docker.
+
+**Focus:** LLM applications · RAG · FastAPI · Semantic search · Docker
+
+### [Codeforces Performance Predictor](https://github.com/Souhail-001/PredForces)
+
+A machine learning application that predicts contest performance and provides personalized problem recommendations using Codeforces API data.
+
+**Focus:** Python · Machine learning · Recommendation systems · API integration
+
+## Experience
+
+**AI Engineering Intern · TechNet World**  
+July – August 2026
+
+- Built an agentic LLM workflow to translate natural-language business rules into structured Boolean expressions.
+- Implemented structured prompting, contextual retrieval, and schema-based output validation.
+- Integrated Z3-based logical validation to detect conflicting and inconsistent rules.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, C++, C, Java, SQL |
+| AI & machine learning | PyTorch, scikit-learn, LLMs, RAG, NLP, Agno |
+| Data & analysis | NumPy, pandas, SciPy, Matplotlib |
+| Backend & databases | FastAPI, MySQL |
+| Development tools | Git, GitHub, GitLab, Docker |
+| Foundations | Data structures, algorithms, competitive programming |
+
+## Competitive programming
+
+- **Two-time TCPC finalist**, with a 13th-place finish.
+- **5th in Tunisia and 19th in Africa** — ODC Champions 2025.
+- Competed in **18+ onsite programming contests**.
+
+Find me on Codeforces as **[Aizen01](https://codeforces.com/profile/Aizen01)**.
+
+## Let's connect
+
+I'm looking for an **AI/ML internship** where I can contribute to practical systems, strengthen my engineering skills, and learn from experienced engineers.
+
+Reach out on [LinkedIn](https://www.linkedin.com/in/souhail-mbarki-a74b0a337/) or email **[souhayelmbarki15@gmail.com](mailto:souhayelmbarki15@gmail.com)**.
+
+<!-- Customization: add your current public portfolio URL to the links at the top. -->
+<!-- Keep project descriptions and internship availability up to date. -->
