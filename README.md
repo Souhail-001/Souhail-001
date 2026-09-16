@@ -1,76 +1,104 @@
 <div align="center">
 
-# Hi, I'm Souhail Mbarki 👋
+# Souhail Mbarki
 
-**Software Engineering Student at ENIT · AI Engineering · Competitive Programming**
+### AI Engineering · LLMs · RAG · Applied ML
 
-Building practical AI applications with LLMs, RAG, and machine learning.
+Software Engineering Student at **ENIT** · Tunis, Tunisia
 
-[LinkedIn](https://www.linkedin.com/in/souhail-mbarki-a74b0a337/) · [Email](mailto:souhayelmbarki15@gmail.com) · [Codeforces](https://codeforces.com/profile/Aizen01) · [Kaggle](https://www.kaggle.com/mbarkisouhail)
+Building AI applications with a competitive programmer’s approach to problem-solving.
 
-**Open to AI/ML internship opportunities**
+<p>
+  <a href="https://www.linkedin.com/in/souhail-mbarki-a74b0a337/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:souhayelmbarki15@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s_talk-334155?style=flat-square" alt="Email Souhail" /></a>
+  <a href="https://codeforces.com/profile/Aizen01"><img src="https://img.shields.io/badge/Codeforces-Aizen01-334155?style=flat-square" alt="Aizen01 on Codeforces" /></a>
+</p>
+
+**Seeking an AI/ML internship**
 
 </div>
 
 ---
 
-## About me
+## Engineering focus
 
-I'm a Software Engineering student at the **National Engineering School of Tunis (ENIT)**, focused on building AI systems that solve practical problems. My interests include **LLM engineering, retrieval-augmented generation, agentic AI, and applied machine learning**.
+I build applications that combine **language models, retrieval, and backend engineering**. My work spans AI career assistance, competitive programming predictions, and business-rule validation.
 
-I enjoy understanding how a system works before writing code: defining the problem, exploring architecture choices, and testing assumptions. Competitive programming has shaped that approach through years of algorithmic problem-solving.
+At **TechNet World**, I worked on an agentic workflow that translates natural-language rules into structured logic. I care about the engineering around the model: clear interfaces, useful context, and validated outputs.
 
-## Selected projects
+## Selected work
 
-### [AuraHire — AI-Powered Career Assistant](https://github.com/Souhail-001/AI_Assistant)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Souhail-001/AI_Assistant">AuraHire</a></h3>
+<p><strong>AI-powered career assistant</strong></p>
+<p>Job discovery, profile analysis, and interview preparation, supported by a RAG pipeline and semantic search.</p>
+<p>Modular FastAPI backend, JWT authentication, and Dockerized deployment.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>RAG</code> <code>Docker</code></p>
+<p><a href="https://github.com/Souhail-001/AI_Assistant">Explore repository →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Souhail-001/PredForces">PredForces</a></h3>
+<p><strong>Codeforces performance predictor</strong></p>
+<p>Contest performance prediction and personalized problem recommendations using machine learning and Codeforces API data.</p>
+<p>Bringing applied ML to a domain I practice: competitive programming.</p>
+<p><code>Python</code> <code>Machine Learning</code> <code>Codeforces API</code></p>
+<p><a href="https://github.com/Souhail-001/PredForces">Explore repository →</a></p>
+</td>
+</tr>
+</table>
 
-A full-stack career assistant for job discovery, profile analysis, interview preparation, and review generation.
-
-- Built a modular FastAPI backend with REST APIs and JWT authentication.
-- Implemented a RAG pipeline and vector-based semantic search for context-aware responses.
-- Containerized the application with Docker.
-
-**Focus:** LLM applications · RAG · FastAPI · Semantic search · Docker
-
-### [Codeforces Performance Predictor](https://github.com/Souhail-001/PredForces)
-
-A machine learning application that predicts contest performance and provides personalized problem recommendations using Codeforces API data.
-
-**Focus:** Python · Machine learning · Recommendation systems · API integration
-
-## Experience
+## Industry experience
 
 **AI Engineering Intern · TechNet World**  
 July – August 2026
 
-- Built an agentic LLM workflow to translate natural-language business rules into structured Boolean expressions.
-- Implemented structured prompting, contextual retrieval, and schema-based output validation.
-- Integrated Z3-based logical validation to detect conflicting and inconsistent rules.
+- Developed an agentic LLM workflow to convert natural-language business rules into structured Boolean expressions.
+- Combined **structured prompting, contextual retrieval, and schema validation** to support reliable outputs.
+- Integrated **Z3 logical validation** to identify conflicting and inconsistent rules.
 
 ## Technical toolkit
 
-| Area | Technologies |
-| --- | --- |
-| Languages | Python, C++, C, Java, SQL |
-| AI & machine learning | PyTorch, scikit-learn, LLMs, RAG, NLP, Agno |
-| Data & analysis | NumPy, pandas, SciPy, Matplotlib |
-| Backend & databases | FastAPI, MySQL |
-| Development tools | Git, GitHub, GitLab, Docker |
-| Foundations | Data structures, algorithms, competitive programming |
+<p>
+  <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=93C5FD" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1E293B?style=flat-square&logo=cplusplus&logoColor=93C5FD" alt="C++" />
+  <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=93C5FD" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=93C5FD" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=93C5FD" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=93C5FD" alt="Docker" />
+</p>
 
-## Competitive programming
+| Area | Technologies & concepts |
+| :--- | :--- |
+| **AI engineering** | LLMs, RAG, NLP, agentic workflows, Agno |
+| **Machine learning & data** | PyTorch, scikit-learn, NumPy, pandas, SciPy, Matplotlib |
+| **Software development** | Python, C++, C, Java, SQL, FastAPI, MySQL |
+| **Tools & foundations** | Git, GitHub, GitLab, Docker, data structures & algorithms |
 
-- **Two-time TCPC finalist**, with a 13th-place finish.
-- **5th in Tunisia and 19th in Africa** — ODC Champions 2025.
-- Competed in **18+ onsite programming contests**.
+## Beyond the model
 
-Find me on Codeforces as **[Aizen01](https://codeforces.com/profile/Aizen01)**.
+Competitive programming is where I sharpen my reasoning, algorithm design, and attention to edge cases.
 
-## Let's connect
+| Achievement | Result |
+| :--- | :--- |
+| **Tunisian Collegiate Programming Contest** | Two-time finalist · 13th-place finish |
+| **ODC Champions 2025** | 5th in Tunisia · 19th in Africa |
+| **Onsite programming contests** | 18+ competitions |
 
-I'm looking for an **AI/ML internship** where I can contribute to practical systems, strengthen my engineering skills, and learn from experienced engineers.
+[Codeforces: Aizen01](https://codeforces.com/profile/Aizen01) · [Kaggle](https://www.kaggle.com/mbarkisouhail)
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/souhail-mbarki-a74b0a337/) or email **[souhayelmbarki15@gmail.com](mailto:souhayelmbarki15@gmail.com)**.
+---
 
-<!-- Customization: add your current public portfolio URL to the links at the top. -->
-<!-- Keep project descriptions and internship availability up to date. -->
+<div align="center">
+
+**Interested in building practical AI systems together?**
+
+Open to AI/ML internships and project collaboration.
+
+[Get in touch](mailto:souhayelmbarki15@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/souhail-mbarki-a74b0a337/)
+
+</div>
+
+<!-- Add your public portfolio URL to the header links when ready. -->
+<!-- Update availability and achievements as your experience grows. -->
