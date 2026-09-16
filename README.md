@@ -8,7 +8,7 @@ Building practical AI applications with LLMs, RAG, and machine learning.
 
 [LinkedIn](https://www.linkedin.com/in/souhail-mbarki-a74b0a337/) · [Email](mailto:souhayelmbarki15@gmail.com) · [Codeforces](https://codeforces.com/profile/Aizen01) · [Kaggle](https://www.kaggle.com/mbarkisouhail)
 
-**Open to AI/ML internship opportunities** · Tunis, Tunisia
+**Open to AI/ML internship opportunities**
 
 </div>
 
