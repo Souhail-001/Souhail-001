@@ -63,7 +63,7 @@ July – August 2026
 <p>
   <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=93C5FD" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-1E293B?style=flat-square&logo=cplusplus&logoColor=93C5FD" alt="C++" />
-  <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=93C5FD" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow,-1E293B?style=flat-square&logo=TensorFlow,&logoColor=93C5FD" alt="TensorFlow," />
   <img src="https://img.shields.io/badge/scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=93C5FD" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=93C5FD" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=93C5FD" alt="Docker" />
@@ -72,7 +72,7 @@ July – August 2026
 | Area | Technologies & concepts |
 | :--- | :--- |
 | **AI engineering** | LLMs, RAG, NLP, agentic workflows, Agno |
-| **Machine learning & data** | PyTorch, scikit-learn, NumPy, pandas, SciPy, Matplotlib |
+| **Machine learning & data** | TensorFlow,, scikit-learn, NumPy, pandas, SciPy, Matplotlib |
 | **Software development** | Python, C++, C, Java, SQL, FastAPI, MySQL |
 | **Tools & foundations** | Git, GitHub, GitLab, Docker, data structures & algorithms |
 
